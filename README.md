@@ -1,5 +1,5 @@
 # LyricLSTM
-Generate lyrics using an LSTM from on spotify playlists
+Generate lyrics using an LSTM from spotify playlists
 
 
 ---HOW TO USE---
