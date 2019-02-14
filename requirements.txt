@@ -1,0 +1,6 @@
+LyricLSTM
+#pytorch
+gensim=2.7.4
+pylyrics3=1.0.5
+numpy=1.15.3
+requests=2.20.0
